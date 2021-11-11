@@ -37,6 +37,7 @@
   .nav-list {
     list-style: none;
     display: flex;
+    overflow: hidden;
   }
   
   .nav-list li {
