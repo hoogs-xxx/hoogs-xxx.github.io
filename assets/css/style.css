@@ -132,3 +132,9 @@ main {
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
   scale: 60pxs;
 }
+
+*:lang(ja) {
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  text-align: justify;
+  word-break: break-all;
+}
