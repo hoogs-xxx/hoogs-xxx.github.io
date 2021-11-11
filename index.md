@@ -5,4 +5,4 @@ title: Letto
 
 # Letto
 
-<span color="red">em construção</span>
+<span color="red">em construção</span>{: .jumbotron }
