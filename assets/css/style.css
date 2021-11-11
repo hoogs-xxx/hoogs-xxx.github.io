@@ -47,6 +47,7 @@
   .mobile-menu {
     display: none;
     cursor: pointer;
+    overflow: hidden;
   }
   
   .mobile-menu div {
@@ -59,7 +60,7 @@
   
   @media (max-width: 999px) {
     body {
-      overflow-x: hidden;
+      overflow: hidden;
     }
     .nav-list {
       overflow: hidden;
